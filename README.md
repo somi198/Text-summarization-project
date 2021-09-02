@@ -199,5 +199,9 @@
 2. 다양한 주제의 도메인 학습
    - 실제 적용될 상담 데이터와 비슷한 형식의 데이터라면 대화의 주제가 달라도, 즉 다른 주제의 상담 내역을 많이 학습한다면 성능향상에 도움이 될 것으로 예상된다.
 
+***
+### Reference
 
+- [KoBART](https://github.com/SKT-AI/KoBART)
+- [KoBART-summarization](https://github.com/seujung/KoBART-summarization)
       
