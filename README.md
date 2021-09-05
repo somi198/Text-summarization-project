@@ -117,7 +117,7 @@
 
 - Test Data 기준으로 rouge score를 산출함
 - Score 산출 방법은 [rouge 패키지](https://pypi.org/project/rouge/)를 사용함
-- 
+- 한국어대화요약 모델로 학습한 경우 Rouge-1 f1 score : 0.12785
 
 
 ***
