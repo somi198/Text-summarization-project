@@ -131,6 +131,7 @@
 ## 7. 결과 분석
 
 - Hyper-parameter에 따른 모델 성능 차이
+  - 아래의 표는 Rouge-1의 f1 score를 나타냄
   - train: dacon 신문기사/ test: dacon 신문기사      
     |Hyper-parameter|#1|#2|#3|#4|
     |:---:|:---:|:---:|:---:|:---:|
